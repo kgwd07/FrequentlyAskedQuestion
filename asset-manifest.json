@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FrequentlyAskedQuestion/static/css/main.19025435.chunk.css",
+    "main.js": "/FrequentlyAskedQuestion/static/js/main.8117f0a4.chunk.js",
+    "main.js.map": "/FrequentlyAskedQuestion/static/js/main.8117f0a4.chunk.js.map",
+    "runtime-main.js": "/FrequentlyAskedQuestion/static/js/runtime-main.3317a106.js",
+    "runtime-main.js.map": "/FrequentlyAskedQuestion/static/js/runtime-main.3317a106.js.map",
+    "static/js/2.40b1d22a.chunk.js": "/FrequentlyAskedQuestion/static/js/2.40b1d22a.chunk.js",
+    "static/js/2.40b1d22a.chunk.js.map": "/FrequentlyAskedQuestion/static/js/2.40b1d22a.chunk.js.map",
+    "index.html": "/FrequentlyAskedQuestion/index.html",
+    "precache-manifest.baeba32fae192c77feaf7dc3ab3f594e.js": "/FrequentlyAskedQuestion/precache-manifest.baeba32fae192c77feaf7dc3ab3f594e.js",
+    "service-worker.js": "/FrequentlyAskedQuestion/service-worker.js",
+    "static/css/main.19025435.chunk.css.map": "/FrequentlyAskedQuestion/static/css/main.19025435.chunk.css.map",
+    "static/js/2.40b1d22a.chunk.js.LICENSE.txt": "/FrequentlyAskedQuestion/static/js/2.40b1d22a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3317a106.js",
+    "static/js/2.40b1d22a.chunk.js",
+    "static/css/main.19025435.chunk.css",
+    "static/js/main.8117f0a4.chunk.js"
+  ]
+}
